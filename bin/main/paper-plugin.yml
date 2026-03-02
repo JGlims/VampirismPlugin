@@ -1,0 +1,8 @@
+name: Vampirism
+version: '1.0.0'
+main: com.jglims.vampirism.VampirismPlugin
+description: Vampirism enchantment - heal on hit (Levels 1-4)
+api-version: '1.21.11'
+bootstrapper: com.jglims.vampirism.VampirismBootstrap
+authors:
+  - JotaGlims
